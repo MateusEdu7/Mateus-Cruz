@@ -1,6 +1,6 @@
 ### Olá eu sou o Mateus Eduardo 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateuss.cr.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateuss.cr/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/mateuscruz.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgordinho&show_icons=true&theme=merko)
