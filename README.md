@@ -46,8 +46,8 @@
 
 <div>
 <a href="https://github.com/SEU-USUARIO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateuscruz&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuscruz&layout=compact&theme=dark"/>
 </div>
 
 
