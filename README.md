@@ -1,10 +1,17 @@
-### Olá eu sou o Mateus Eduardo 👋
+<h1 align="center">👨‍💻 Mateus Eduardo</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateuss.cr/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-cruz-721393288/)
+🎓 Estudante de Ciência da Computação (FIAP)
+💻 Focado em desenvolvimento e tecnologia
+🚀 Em busca de estágio / jovem aprendiz em TI
 
 
-## Tecnologias que uso no meu dia a dia:
+## 🌐 Contato
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/mateuss.cr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mateus-cruz-721393288/)
+
+
+## 💻 Tecnologias que uso no dia a dia
 
 <div style="display: inline_block"><br>
 
@@ -20,6 +27,33 @@
 
 </div>
 
-Aprendendo e se dedicando ao máximo a área da tecnologia, pois o futuro somos nós.
 
-## Gmail para contato: mateuseduardo4249@gmail.com.
+## 📚 Atualmente estudando
+
+* ☁️ Cloud Computing (AWS)
+* 🐍 Python para automação e back-end
+* ⚙️ Lógica de programação e algoritmos
+* 🌐 Desenvolvimento web
+
+
+## 🚀 Projetos
+
+🔹 Em breve estarei adicionando meus projetos aqui no GitHub
+🔹 Foco em projetos práticos para desenvolvimento profissional
+
+
+## 📊 Estatísticas do GitHub
+
+<div>
+<a href="https://github.com/SEU-USUARIO">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark"/>
+</div>
+
+
+## 🧠 Sobre mim
+
+Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas.
+Tenho facilidade em lidar com o público e estou em transição para a área de TI, focando em desenvolvimento e cloud.
+
+💡 "Aprendendo e evoluindo todos os dias para construir meu futuro na tecnologia."
